@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kalashnykbohdan/goit-js-hw-12-countriesstatic/css/main.b6dea97f.chunk.css",
+    "main.js": "/kalashnykbohdan/goit-js-hw-12-countriesstatic/js/main.5588add3.chunk.js",
+    "main.js.map": "/kalashnykbohdan/goit-js-hw-12-countriesstatic/js/main.5588add3.chunk.js.map",
+    "runtime-main.js": "/kalashnykbohdan/goit-js-hw-12-countriesstatic/js/runtime-main.90816d3d.js",
+    "runtime-main.js.map": "/kalashnykbohdan/goit-js-hw-12-countriesstatic/js/runtime-main.90816d3d.js.map",
+    "static/js/2.bc091eac.chunk.js": "/kalashnykbohdan/goit-js-hw-12-countriesstatic/js/2.bc091eac.chunk.js",
+    "static/js/2.bc091eac.chunk.js.map": "/kalashnykbohdan/goit-js-hw-12-countriesstatic/js/2.bc091eac.chunk.js.map",
+    "index.html": "/kalashnykbohdan/goit-js-hw-12-countriesindex.html",
+    "precache-manifest.9bba1910530290d00141baa5cb44f2a1.js": "/kalashnykbohdan/goit-js-hw-12-countriesprecache-manifest.9bba1910530290d00141baa5cb44f2a1.js",
+    "service-worker.js": "/kalashnykbohdan/goit-js-hw-12-countriesservice-worker.js",
+    "static/css/main.b6dea97f.chunk.css.map": "/kalashnykbohdan/goit-js-hw-12-countriesstatic/css/main.b6dea97f.chunk.css.map",
+    "static/js/2.bc091eac.chunk.js.LICENSE.txt": "/kalashnykbohdan/goit-js-hw-12-countriesstatic/js/2.bc091eac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.90816d3d.js",
+    "static/js/2.bc091eac.chunk.js",
+    "static/css/main.b6dea97f.chunk.css",
+    "static/js/main.5588add3.chunk.js"
+  ]
+}
